@@ -1,2 +1,2 @@
-# URLShortening
+# javaTask
 URL shortening application
